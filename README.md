@@ -46,7 +46,8 @@ This Heatmap was created centered around Australia for better visualisation. Use
 ![image](https://github.com/sookie22/Project_3/assets/143486132/177115f2-bfea-482a-acaf-5699ac9b4007)
 This interactive bar chart will allow you to select the Airline and identify the top 5 routes based on total flights.  
 #### 8) Top Airlines based on the amount of Flights - Developer Swapna
-This interactive map allows you to select the Australian City that you would like to start the route, the international city of preferred destination and the preferred airline. As a result, it will provide you the total number of flights and provide you a visualisation of the route on the map with related bar chart.
+This interactive map allows you to select the Australian City that you would like to start the route, the international city of preferred destination and the preferred airline (if Airline is not choosen from dropdown menu , by default it takes top airline to particular destination) . As a result, it will provide you the total number of flights and provide you a visualisation of the route on the map with related data when you click on circle . Related bar chart as separate image which shows particular Australian city airport from dropdown  to different destinations and related number of flights from  top airlines  .
+
 ![image](https://github.com/sookie22/Project_3/assets/143486132/2b90aa83-34a6-4e94-9f23-057a99170c91)
 
 
