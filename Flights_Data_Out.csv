@@ -1,0 +1,125 @@
+﻿_id,Month,In_Out,Australian_City,International_City,Airline,Route,Port_Country,Port_Region,Service_Country,Service_Region,Stops,All_Flights,Max_Seats,Year,Month_num
+107767,Mar-22,O,Adelaide,Doha,Qatar Airways,ADL-DOH,Qatar,Middle East,Qatar,Middle East,0,12,3396,2022,3
+107768,Mar-22,O,Adelaide,Kuala Lumpur,Malaysia Airlines,ADL-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,2,580,2022,3
+107769,Mar-22,O,Adelaide,New Delhi,Qantas Airways,MEL-ADL-DEL,India,S Asia,India,S Asia,0,18,4512,2022,3
+107770,Mar-22,O,Adelaide,New Delhi,Qantas Airways,SYD-ADL-DEL,India,S Asia,India,S Asia,0,15,3757,2022,3
+107771,Mar-22,O,Adelaide,Singapore,Singapore Airlines,ADL-SIN,Singapore,SE Asia,Singapore,SE Asia,0,20,6060,2022,3
+107772,Mar-22,O,Brisbane,Auckland,Air New Zealand,BNE-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,23,6299,2022,3
+107773,Mar-22,O,Brisbane,Christchurch,Air New Zealand,BNE-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,12,2424,2022,3
+107774,Mar-22,O,Brisbane,Doha,Qatar Airways,BNE-DOH,Qatar,Middle East,Qatar,Middle East,0,31,10974,2022,3
+107775,Mar-22,O,Brisbane,Dubai,Emirates,BNE-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,31,15834,2022,3
+107776,Mar-22,O,Brisbane,Honiara,Solomon Airlines,BNE-HIR,Solomon Islands,Islands,Solomon Islands,Islands,0,4,544,2022,3
+107777,Mar-22,O,Brisbane,Kuala Lumpur,Malaysia Airlines,BNE-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,2,580,2022,3
+107778,Mar-22,O,Brisbane,Manila,Philippine Airlines,BNE-MNL,Philippines,SE Asia,Philippines,SE Asia,0,4,672,2022,3
+107779,Mar-22,O,Brisbane,Nadi,Fiji Airways,BNE-NAN,Fiji,Islands,Fiji,Islands,0,13,2210,2022,3
+107780,Mar-22,O,Brisbane,Nauru,Nauru Airlines,BNE-INU,Nauru,Islands,Nauru,Islands,0,5,640,2022,3
+107781,Mar-22,O,Brisbane,Noumea,Air Caledonie,BNE-NOU,New Caledonia,Islands,New Caledonia,Islands,0,5,819,2022,3
+107782,Mar-22,O,Brisbane,Port Moresby,Air Niugini,BNE-CNS-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,1,4,830,2022,3
+107783,Mar-22,O,Brisbane,Port Moresby,Air Niugini,BNE-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,0,24,4957,2022,3
+107784,Mar-22,O,Brisbane,Port Vila,Air Vanuatu,BNE-VLI,Vanuatu,Islands,Vanuatu,Islands,0,2,352,2022,3
+107785,Mar-22,O,Brisbane,Singapore,Qantas Airways,BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,0,2,500,2022,3
+107786,Mar-22,O,Brisbane,Singapore,Singapore Airlines,BNE-SIN,Singapore,SE Asia,Singapore,SE Asia,0,77,23081,2022,3
+107787,Mar-22,O,Brisbane,Taipei,China Airlines,BNE-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,4,1224,2022,3
+107788,Mar-22,O,Brisbane,Taipei,Eva Air,BNE-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,2,608,2022,3
+107789,Mar-22,O,Brisbane,Wellington,Air New Zealand,BNE-WLG,New Zealand,New Zealand,New Zealand,New Zealand,0,1,210,2022,3
+107790,Mar-22,O,Cairns,Port Moresby,Air Niugini,BNE-CNS-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,0,4,830,2022,3
+107791,Mar-22,O,Cairns,Singapore,Singapore Airlines,CNS-SIN,Singapore,SE Asia,Singapore,SE Asia,0,2,324,2022,3
+107792,Mar-22,O,Darwin,Dili,Qantas Airways,DRW-DIL,East Timor,SE Asia,East Timor,SE Asia,0,1,97,2022,3
+107793,Mar-22,O,Darwin,London,Qantas Airways,MEL-DRW-LON,UK,Europe,UK,Europe,0,29,5135,2022,3
+107794,Mar-22,O,Darwin,London,Qantas Airways,SYD-DRW-LON,UK,Europe,UK,Europe,0,30,5477,2022,3
+107795,Mar-22,O,Darwin,Singapore,Jetstar Asia,DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,0,9,1620,2022,3
+107796,Mar-22,O,Darwin,Singapore,Singapore Airlines,DRW-SIN,Singapore,SE Asia,Singapore,SE Asia,0,1,162,2022,3
+107799,Mar-22,O,Melbourne,Abu Dhabi,Etihad Airways,MEL-AUH,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,21,6048,2022,3
+107800,Mar-22,O,Melbourne,Auckland,Air New Zealand,MEL-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,33,9345,2022,3
+107801,Mar-22,O,Melbourne,Bandar Seri Begawan,Royal Brunei Airlines,MEL-BWN,Brunei,SE Asia,Brunei,SE Asia,0,7,1778,2022,3
+107802,Mar-22,O,Melbourne,Bangkok,Thai Airways International,MEL-BKK,Thailand,SE Asia,Thailand,SE Asia,0,4,1226,2022,3
+107803,Mar-22,O,Melbourne,Christchurch,Air New Zealand,MEL-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,14,2885,2022,3
+107804,Mar-22,O,Melbourne,Colombo,SriLankan Airlines,MEL-CMB,Sri Lanka,S Asia,Sri Lanka,S Asia,0,26,7540,2022,3
+107805,Mar-22,O,Melbourne,Denpasar,Jetstar,MEL-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,8,2680,2022,3
+107806,Mar-22,O,Melbourne,Doha,Qatar Airways,MEL-DOH,Qatar,Middle East,Qatar,Middle East,0,30,9810,2022,3
+107807,Mar-22,O,Melbourne,Dubai,Emirates,MEL-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,31,15993,2022,3
+107808,Mar-22,O,Melbourne,Ho Chi Minh City,Bamboo Airways,MEL-SGN,Vietnam,SE Asia,Vietnam,SE Asia,0,4,1168,2022,3
+107809,Mar-22,O,Melbourne,Ho Chi Minh City,Vietnam Airlines,MEL-SGN,Vietnam,SE Asia,Vietnam,SE Asia,0,13,3636,2022,3
+107810,Mar-22,O,Melbourne,Honolulu,Jetstar,MEL-HNL,USA,N America,USA,N America,0,6,2010,2022,3
+107811,Mar-22,O,Melbourne,Kuala Lumpur,Malaysia Airlines,MEL-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,24,6960,2022,3
+107812,Mar-22,O,Melbourne,London,Qantas Airways,MEL-DRW-LON,UK,Europe,UK,Europe,1,29,5135,2022,3
+107813,Mar-22,O,Melbourne,Los Angeles,Qantas Airways,MEL-LAX,USA,N America,USA,N America,0,21,4954,2022,3
+107814,Mar-22,O,Melbourne,Manila,Philippine Airlines,MEL-MNL,Philippines,SE Asia,Philippines,SE Asia,0,9,1512,2022,3
+107815,Mar-22,O,Melbourne,Nadi,Fiji Airways,MEL-NAN,Fiji,Islands,Fiji,Islands,0,22,4189,2022,3
+107816,Mar-22,O,Melbourne,New Delhi,Air India,MEL-DEL,India,S Asia,India,S Asia,0,18,4608,2022,3
+107817,Mar-22,O,Melbourne,New Delhi,Qantas Airways,MEL-ADL-DEL,India,S Asia,India,S Asia,1,18,4512,2022,3
+107818,Mar-22,O,Melbourne,Phuket,Jetstar,MEL-HKT,Thailand,SE Asia,Thailand,SE Asia,0,9,3015,2022,3
+107819,Mar-22,O,Melbourne,Singapore,Jetstar,MEL-SIN,Singapore,SE Asia,Singapore,SE Asia,0,13,4355,2022,3
+107820,Mar-22,O,Melbourne,Singapore,Qantas Airways,MEL-SIN,Singapore,SE Asia,Singapore,SE Asia,0,17,4996,2022,3
+107821,Mar-22,O,Melbourne,Singapore,Scoot Tigerair,MEL-SIN,Singapore,SE Asia,Singapore,SE Asia,0,32,12000,2022,3
+107822,Mar-22,O,Melbourne,Singapore,Singapore Airlines,MEL-SIN,Singapore,SE Asia,Singapore,SE Asia,0,93,27973,2022,3
+107823,Mar-22,O,Melbourne,Taipei,China Airlines,MEL-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,4,1224,2022,3
+107824,Mar-22,O,Melbourne,Tokyo,Japan Airlines,MEL-TYO,Japan,NE Asia,Japan,NE Asia,0,9,1854,2022,3
+107825,Mar-22,O,Melbourne,Xiamen,Xiamen Airlines,MEL-XMN,China,NE Asia,China,NE Asia,0,4,1112,2022,3
+107826,Mar-22,O,Perth,Auckland,Air New Zealand,PER-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,5,1510,2022,3
+107827,Mar-22,O,Perth,Doha,Qatar Airways,PER-DOH,Qatar,Middle East,Qatar,Middle East,0,25,7359,2022,3
+107828,Mar-22,O,Perth,Dubai,Emirates,PER-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,13,4602,2022,3
+107829,Mar-22,O,Perth,Kuala Lumpur,Malaysia Airlines,PER-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,7,1250,2022,3
+107830,Mar-22,O,Perth,Kuala Lumpur,Malindo Air,PER-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,5,810,2022,3
+107831,Mar-22,O,Perth,Singapore,Jetstar Asia,PER-SIN,Singapore,SE Asia,Singapore,SE Asia,0,6,1080,2022,3
+107832,Mar-22,O,Perth,Singapore,Qantas Airways,PER-SIN,Singapore,SE Asia,Singapore,SE Asia,0,1,297,2022,3
+107833,Mar-22,O,Perth,Singapore,Scoot Tigerair,PER-SIN,Singapore,SE Asia,Singapore,SE Asia,0,31,11625,2022,3
+107834,Mar-22,O,Perth,Singapore,Singapore Airlines,PER-SIN,Singapore,SE Asia,Singapore,SE Asia,0,80,25906,2022,3
+107835,Mar-22,O,Sydney,Abu Dhabi,Etihad Airways,SYD-AUH,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,24,6960,2022,3
+107836,Mar-22,O,Sydney,Auckland,Air New Zealand,SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,37,10367,2022,3
+107837,Mar-22,O,Sydney,Auckland,LATAM Airlines,SYD-AKL-SCL,New Zealand,New Zealand,Chile,S America,0,1,234,2022,3
+107838,Mar-22,O,Sydney,Auckland,Qantas Airways,SYD-AKL,New Zealand,New Zealand,New Zealand,New Zealand,0,18,4930,2022,3
+107839,Mar-22,O,Sydney,Bangkok,Qantas Airways,SYD-BKK,Thailand,SE Asia,Thailand,SE Asia,0,14,4155,2022,3
+107840,Mar-22,O,Sydney,Bangkok,Thai Airways International,SYD-BKK,Thailand,SE Asia,Thailand,SE Asia,0,22,7656,2022,3
+107841,Mar-22,O,Sydney,Bangkok,Thai Airways International,SYD-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,1,10,3480,2022,3
+107842,Mar-22,O,Sydney,Christchurch,Air New Zealand,SYD-CHC,New Zealand,New Zealand,New Zealand,New Zealand,0,13,2520,2022,3
+107843,Mar-22,O,Sydney,Colombo,SriLankan Airlines,SYD-CMB,Sri Lanka,S Asia,Sri Lanka,S Asia,0,19,5615,2022,3
+107844,Mar-22,O,Sydney,Dallas,Qantas Airways,SYD-DFW,USA,N America,USA,N America,0,18,4231,2022,3
+107845,Mar-22,O,Sydney,Denpasar,Garuda Indonesia,SYD-DPS,Indonesia,SE Asia,Indonesia,SE Asia,0,3,825,2022,3
+107846,Mar-22,O,Sydney,Doha,Qatar Airways,SYD-DOH,Qatar,Middle East,Qatar,Middle East,0,31,10758,2022,3
+107847,Mar-22,O,Sydney,Dubai,Emirates,SYD-DXB,United Arab Emirates,Middle East,United Arab Emirates,Middle East,0,60,30960,2022,3
+107848,Mar-22,O,Sydney,Guangzhou,China Southern Airlines,SYD-CAN,China,NE Asia,China,NE Asia,0,4,1832,2022,3
+107849,Mar-22,O,Sydney,Hanoi,Vietnam Airlines,SYD-HAN,Vietnam,SE Asia,Vietnam,SE Asia,0,4,1133,2022,3
+107850,Mar-22,O,Sydney,Ho Chi Minh City,Vietnam Airlines,SYD-SGN,Vietnam,SE Asia,Vietnam,SE Asia,0,13,3754,2022,3
+107851,Mar-22,O,Sydney,Honolulu,Hawaiian Airlines,SYD-HNL,USA,N America,USA,N America,0,18,4986,2022,3
+107852,Mar-22,O,Sydney,Honolulu,Jetstar,SYD-HNL,USA,N America,USA,N America,0,13,4355,2022,3
+107853,Mar-22,O,Sydney,Honolulu,Qantas Airways,SYD-HNL,USA,N America,USA,N America,0,3,891,2022,3
+107854,Mar-22,O,Sydney,Jakarta,Garuda Indonesia,SYD-JKT,Indonesia,SE Asia,Indonesia,SE Asia,0,5,1570,2022,3
+107855,Mar-22,O,Sydney,Johannesburg,Qantas Airways,SYD-JNB,South Africa,Africa,South Africa,Africa,0,16,3773,2022,3
+107856,Mar-22,O,Sydney,Kuala Lumpur,AirAsia X,SYD-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,4,1508,2022,3
+107857,Mar-22,O,Sydney,Kuala Lumpur,Malaysia Airlines,SYD-KUL,Malaysia,SE Asia,Malaysia,SE Asia,0,17,4930,2022,3
+107858,Mar-22,O,Sydney,Kunming,China Eastern Airlines,SYD-KMG,China,NE Asia,China,NE Asia,0,2,632,2022,3
+107859,Mar-22,O,Sydney,London,British Airways,SYD-SIN-LON,UK,Europe,UK,Europe,1,3,648,2022,3
+107860,Mar-22,O,Sydney,London,Qantas Airways,SYD-DRW-LON,UK,Europe,UK,Europe,1,30,5477,2022,3
+107861,Mar-22,O,Sydney,Los Angeles,American Airlines,SYD-LAX,USA,N America,USA,N America,0,27,7668,2022,3
+107862,Mar-22,O,Sydney,Los Angeles,Delta Air Lines,SYD-LAX,USA,N America,USA,N America,0,30,9030,2022,3
+107863,Mar-22,O,Sydney,Los Angeles,Qantas Airways,SYD-LAX,USA,N America,USA,N America,0,32,10283,2022,3
+107864,Mar-22,O,Sydney,Los Angeles,United Airlines,SYD-LAX,USA,N America,USA,N America,0,31,7942,2022,3
+107865,Mar-22,O,Sydney,Manila,Philippine Airlines,SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,0,13,2748,2022,3
+107866,Mar-22,O,Sydney,Manila,Qantas Airways,SYD-MNL,Philippines,SE Asia,Philippines,SE Asia,0,5,1439,2022,3
+107867,Mar-22,O,Sydney,Nadi,Fiji Airways,SYD-NAN,Fiji,Islands,Fiji,Islands,0,50,12520,2022,3
+107868,Mar-22,O,Sydney,Nadi,Jetstar,SYD-NAN,Fiji,Islands,Fiji,Islands,0,12,2232,2022,3
+107869,Mar-22,O,Sydney,Nadi,Qantas Airways,SYD-NAN,Fiji,Islands,Fiji,Islands,0,9,1524,2022,3
+107870,Mar-22,O,Sydney,Nadi,Virgin Australia,SYD-NAN,Fiji,Islands,Fiji,Islands,0,13,2288,2022,3
+107871,Mar-22,O,Sydney,New Delhi,Air India,SYD-DEL,India,S Asia,India,S Asia,0,20,5120,2022,3
+107872,Mar-22,O,Sydney,New Delhi,Qantas Airways,SYD-ADL-DEL,India,S Asia,India,S Asia,1,15,3757,2022,3
+107873,Mar-22,O,Sydney,Noumea,Air Caledonie,SYD-NOU,New Caledonia,Islands,New Caledonia,Islands,0,9,2599,2022,3
+107874,Mar-22,O,Sydney,Phuket,Jetstar,SYD-HKT,Thailand,SE Asia,Thailand,SE Asia,0,4,1340,2022,3
+107875,Mar-22,O,Sydney,Phuket,Thai Airways International,SYD-HKT-BKK,Thailand,SE Asia,Thailand,SE Asia,0,10,3480,2022,3
+107876,Mar-22,O,Sydney,Port Moresby,Air Niugini,SYD-POM,Papua New Guinea,Islands,Papua New Guinea,Islands,0,4,830,2022,3
+107877,Mar-22,O,Sydney,Port Vila,Air Vanuatu,SYD-VLI,Vanuatu,Islands,Vanuatu,Islands,0,1,176,2022,3
+107878,Mar-22,O,Sydney,San Francisco,United Airlines,SYD-SFO,USA,N America,USA,N America,0,31,10850,2022,3
+107879,Mar-22,O,Sydney,Santiago,LATAM Airlines,SYD-AKL-SCL,Chile,S America,Chile,S America,1,1,234,2022,3
+107880,Mar-22,O,Sydney,Seoul,Asiana Airlines,SYD-SEL,Korea,NE Asia,Korea,NE Asia,0,9,2682,2022,3
+107881,Mar-22,O,Sydney,Seoul,Korean Air,SYD-SEL,Korea,NE Asia,Korea,NE Asia,0,9,2412,2022,3
+107882,Mar-22,O,Sydney,Shanghai,China Eastern Airlines,SYD-SHA,China,NE Asia,China,NE Asia,0,3,948,2022,3
+107883,Mar-22,O,Sydney,Singapore,British Airways,SYD-SIN-LON,Singapore,SE Asia,UK,Europe,0,3,648,2022,3
+107884,Mar-22,O,Sydney,Singapore,Qantas Airways,SYD-SIN,Singapore,SE Asia,Singapore,SE Asia,0,30,8852,2022,3
+107885,Mar-22,O,Sydney,Singapore,Scoot Tigerair,SYD-SIN,Singapore,SE Asia,Singapore,SE Asia,0,33,12375,2022,3
+107886,Mar-22,O,Sydney,Singapore,Singapore Airlines,SYD-SIN,Singapore,SE Asia,Singapore,SE Asia,0,97,33390,2022,3
+107887,Mar-22,O,Sydney,Taipei,China Airlines,SYD-TPE,Taiwan,NE Asia,Taiwan,NE Asia,0,4,1224,2022,3
+107888,Mar-22,O,Sydney,Tokyo,All Nippon Airways,SYD-TYO,Japan,NE Asia,Japan,NE Asia,0,22,5280,2022,3
+107889,Mar-22,O,Sydney,Tokyo,Japan Airlines,SYD-TYO,Japan,NE Asia,Japan,NE Asia,0,15,2790,2022,3
+107890,Mar-22,O,Sydney,Vancouver,Air Canada,SYD-YVR,Canada,N America,Canada,N America,0,14,4300,2022,3
+107891,Mar-22,O,Sydney,Vancouver,Qantas Airways,SYD-YVR,Canada,N America,Canada,N America,0,12,2830,2022,3
+107892,Mar-22,O,Sydney,Xiamen,Xiamen Airlines,SYD-XMN,China,NE Asia,China,NE Asia,0,5,1390,2022,3
